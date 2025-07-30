@@ -53,7 +53,7 @@ import parallex from './assets/work_logo/parallex.png'
 
 import testybite from './assets/work_logo/TestyBite.png'
 
-import Aichatbot from './assets/work_logo/AichatBot.png'
+import Aichatbot from './assets/work_logo/AIchatBot.png'
 import donatebox from './assets/work_logo/donatebBox.png'
 import weather from './assets/work_logo/weather.png';
 import Myntra from './assets/work_logo/myntra.png';
