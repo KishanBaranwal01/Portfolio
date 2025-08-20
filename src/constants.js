@@ -53,7 +53,7 @@ import parallex from './assets/work_logo/parallex.png'
 
 import testybite from './assets/work_logo/TestyBite.png'
 
-import Aichatbot from './assets/work_logo/AichatBot.png'
+import Aichatbot from './assets/work_logo/AIchatBot.png'
 import donatebox from './assets/work_logo/donatebBox.png'
 import weather from './assets/work_logo/weather.png';
 import Myntra from './assets/work_logo/myntra.png';
@@ -226,7 +226,7 @@ export const SkillsInfo = [
       image: jobconnect,
       tags: [ "React JS","Tailwind Css" ,"Rest API","Node Js" , "Express JS" ,"MongoDb"],
       github: "https://github.com/KishanBaranwal01/JobSeekr",
-      webapp: "#",
+      webapp: "https://job-seekr-alpha.vercel.app/",
     },
     {
       id: 1,
