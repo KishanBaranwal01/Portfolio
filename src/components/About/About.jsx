@@ -42,9 +42,10 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-           I’m an MCA student from LNCT University and a MERN-stack developer with hands-on experience in building responsive and scalable web applications. 
-           I specialize in front-end development using React, Tailwind CSS, and Redux, and am continuously expanding my skills in back-end technologies like Node.js and MongoDB.
-            I’m passionate about creating seamless user experiences and developing efficient full-stack solutions using modern web technologies.
+           Full Stack Developer with hands-on experience in building scalable web applications using MERN stack (React.js,
+                Next.js, Node.js, MongoDB). Skilled in developing RESTful APIs, implementing JWT-based authentication, and
+                           optimizing application performance. Strong understanding of SDLC and Git development practices.
+
           </p>
           {/* Resume Button */}
           <a
